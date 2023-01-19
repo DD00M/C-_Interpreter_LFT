@@ -1,0 +1,15 @@
+string s1 = "salut";
+string s2 = "cucu";
+string s3 = "aux";
+string x = s1 + s2;
+int a;
+double c, _d;
+a=5;
+c=2.5;
+s1="test";
+s2="LFT";
+int p = a*c+c;
+int f = s1+s2+s3;
+int k=6;
+int res = a*c+a;
+x = s1 + s2;
